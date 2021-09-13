@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { PostTile } from './post-tile';
 
 @Component({
   selector: 'app-root',
